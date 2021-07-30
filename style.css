@@ -1,0 +1,150 @@
+#menu-bar a{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 800;
+    font-size: 14px;
+    background-image: url(images/menu-button.gif);
+    background-repeat: no-repeat;
+    display: block;
+    width: 128px;
+    height: 25px;
+    padding-left: 18px;
+    padding-top: 2px;
+    float: left;
+}
+#menu-bar a:hover{
+   background-image: url(images/menu-button-hover.gif);
+    color: aqua;
+}
+
+.gallery img{
+    widdth: 100%;
+}
+
+h1{
+    font-family: Impact,fantasy;
+    text-align: center;
+    font-weight: 800;
+    color: blueviolet;
+    font-style:normal;
+}
+h2{
+    font-family:Helvetica,sans-serif;
+    font-weight: 800;
+    color: blueviolet;
+    font-style:normal;
+}
+
+
+p{
+    font-family: Helvetica,sans-serif;
+    font-style: bold;
+    color:black;
+}
+p1{
+    font-family: Helvetica,sans-serif;
+    font-style: bold;
+    color:white;
+}
+form{
+    background-image:url(images/bck%20f.jpeg);
+    background-repeat: no-repeat;
+    font-family: Helvetica,sans-serif;
+    text-decoration-style: solid;
+    border-radius: 10px;
+}
+
+label{
+    font-family: fantasy;
+    color:white;
+    font-weight: 800;
+}
+h3{
+   
+    font-family: Impact,fantasy;
+    font-size: 30px;
+    color: cornflowerblue;
+    font-style: bold; 
+}
+h4{
+    font-family:Impact,fantasy;
+    font-size:30px;
+    font-style: bold;
+    color:cornflowerblue;
+}
+h6{
+    font-family:monospace;
+    font-size:20px;
+    font-style: bold;
+    color: black;
+}
+.button{
+    width: 70px;
+    height: 40px;
+    font-size: 800;
+    background-color:lawngreen;
+    color:black;
+    border: 0px;
+    border-radius: 10px;
+}
+ button:hover{
+    background-color:blue;
+    cursor: pointer;
+     color: white;
+}
+table{
+    font-family: Helvetica,sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #2695A6;
+    text-align: center;
+}
+
+th{
+    font-weight: 800;
+    background-color: #2695A6;
+    color: #ffffff;
+}
+
+ tr{
+    border-bottom: 1px solid #dddddd;   
+}
+
+table tr:last-of-type{
+    border-bottom: 2px solid #009879;
+}
+table td:last-of-type{
+    border:0px solid;
+}
+
+.container{
+    max-width:none
+    margin: auto;
+    background:#ffffff;
+    overflow:auto
+}
+.gallery{
+    margin: 5px;
+    border: 1px solid #ffffff;
+    float: left;
+    width:240px;
+}
+.text{
+    padding: 15px;
+    text-align: center;
+}
+
+
+    
+
+
+
+
+
+
+
+ 
+
+
+
